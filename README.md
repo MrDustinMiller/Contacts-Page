@@ -1,4 +1,4 @@
-<h1 align="center">Database login</h1>
+<h1 align="left">Database login</h1>
 
 <p align="center">A login page that will prompt the user to sign up with a new account. Once signed up the data is saved to a sql database for further logins.</p>
 
