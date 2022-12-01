@@ -6,10 +6,6 @@
 
 - Add the avaiability of saving multiple different users contacts and displaying the corresponding contacts once signed in.
 
-## Screenshots
-
-- []()
-
 ## Built With
 
 - PHP
